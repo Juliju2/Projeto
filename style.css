@@ -83,8 +83,8 @@ body * {
 }
 
 .light #switch button {
-  right: 0;
   left: initial;
+  right: 0;
 }
 
 #switch span {
